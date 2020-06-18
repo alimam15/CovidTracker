@@ -10,7 +10,8 @@ const Chart = () => {
             setDailyData(await fetchDailyData());
 
         }
-        console.log(dailyData);
+        fetchAPI();
+        //console.log(dailyData);
 
     });
 
