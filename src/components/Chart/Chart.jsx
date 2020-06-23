@@ -15,7 +15,6 @@ const Chart = () => {
 
     },[]);
 
-    
 const lineChart = (
     dailyData.length
     ? ( <Line 
