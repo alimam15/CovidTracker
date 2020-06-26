@@ -14,7 +14,6 @@ const Chart = () => {
         //console.log(dailyData);
 
     },[]);
-    
 
 const lineChart = (
     dailyData.length
